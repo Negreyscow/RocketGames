@@ -1,0 +1,46 @@
+{
+    "stock": [
+        {
+            "id": 1,
+            "amount": 3
+        },
+        {
+            "id": 2,
+            "amount": 3
+        },
+        {
+            "id": 3,
+            "amount": 3
+        },
+        {
+            "id": 4,
+            "amount": 3
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "title": "Doom Eternal",
+            "price": 99.9,
+            "image": "https://s3.amazonaws.com/comparegame/thumbnails/43991/medium.jpg"
+        },
+        {
+            "id": 2,
+            "title": "PES 2020",
+            "price": 99.9,
+            "image": "https://s3.amazonaws.com/comparegame/thumbnails/44829/medium.jpg"
+        },
+        {
+            "id": 3,
+            "title": "The Outer Worlds",
+            "price": 99.9,
+            "image": "https://s3.amazonaws.com/comparegame/thumbnails/44832/medium.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Metro Exodus",
+            "price": 99.9,
+            "image": "https://s3.amazonaws.com/comparegame/thumbnails/43134/medium.jpg"
+        }
+    ]
+}
