@@ -60,11 +60,11 @@ export default function Cart() {
               <td>
                 <div>
                   <button type="button" onClick={() =>  decrement(item)}>
-                    <MdRemoveCircleOutline size={20} color="#7159c1"/>
+                    <MdRemoveCircleOutline size={20} color="limegreen"/>
                   </button>
                   <input type="number" readOnly value={item.amount} />
                   <button type="button" onClick={() =>  increment(item)}>
-                    <MdAddCircleOutline size={20} color="#7159c1"/>
+                    <MdAddCircleOutline size={20} color="limegreen"/>
                   </button>
                 </div>
               </td>
@@ -75,7 +75,7 @@ export default function Cart() {
 
               <td>
                 <button type="button" onClick={() => dispatch(CartActions.removeFromCart(item.id))}>
-                  <MdDelete size={20} color="#7159c1" />
+                  <MdDelete size={20} color="limegreen" />
                 </button>
               </td> 
 

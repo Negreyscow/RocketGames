@@ -41,6 +41,18 @@
             "title": "Metro Exodus",
             "price": 99.9,
             "image": "https://s3.amazonaws.com/comparegame/thumbnails/43134/medium.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Overwatch",
+            "price": 99.9,
+            "image": "https://s3.amazonaws.com/comparegame/thumbnails/41141/medium.jpg"
+        },
+        {
+            "id": 6,
+            "title": "Cyberpunk 2077",
+            "price": 99.9,
+            "image": "https://s3.amazonaws.com/comparegame/thumbnails/41157/medium.jpg"
         }
     ]
 }
